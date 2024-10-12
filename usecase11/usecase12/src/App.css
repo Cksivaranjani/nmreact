@@ -1,0 +1,51 @@
+/* Style for the container */
+div {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+/* Style for the headings */
+h2 {
+  font-size: 24px;
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 20px;
+  color: #34495e;
+  margin-bottom: 20px;
+}
+
+/* Style for the paragraph text */
+p {
+  font-size: 16px;
+  color: #7f8c8d;
+  margin-bottom: 20px;
+}
+
+/* Style for buttons */
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect for buttons */
+button:hover {
+  background-color: #2980b9;
+}
+
+/* Style for timer display */
+h3.timer {
+  font-size: 22px;
+  color: #e74c3c;
+  margin-bottom: 20px;
+}
