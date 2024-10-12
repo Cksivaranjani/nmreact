@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  font-size: 1.2rem;
+}
